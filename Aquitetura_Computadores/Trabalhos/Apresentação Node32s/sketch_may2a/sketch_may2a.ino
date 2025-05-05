@@ -15,13 +15,8 @@ int distance=0, y=0, pins[8]={13,12,14,27,26,25,33,32};
 //Função Interrupt//
 void distanceRead(){
   y=(0.08*distance)+0.6; // Formula para ligar leds proporcionalmente à distância
-  printf("Nº de LEDs: %d\n", y);
   if(y>8){
     y=8;
-  }
-  for(int i=0; i<=y; i++){
-    digitalWrite(pins[i], !bright);
-    printf("////////////////////////////////////////////////\n");
   }
 }
 
@@ -32,7 +27,7 @@ void setup(){
   }
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
-  attachInterrupt(15, distanceRead, CHANGE);
+  attachInterrupt(echoPin, distanceRead, CHANGE);
   startTime=millis();
 }
 
@@ -57,6 +52,10 @@ void loop(){
       distance = duration * 0.034 / 2;
       printf("Distancia: %d\n", distance);
       startTime+=0.01;
+      printf("%d\n", y);
+      for(int i=0; i<=y; i++){
+        digitalWrite(pins[i], !bright);
+      }
     }
   }
 }
