@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1708170\\Desktop\\GitHub\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\",
+  "WorkspaceRootPath": "C:\\Users\\BitFenix\\Desktop\\github\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCC55BA1-E477-48F8-9573-F887875633F2}|Somar_c_Saturtion.vcxproj|C:\\Users\\1708170\\Desktop\\GitHub\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\Somar_c_Saturtion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DCC55BA1-E477-48F8-9573-F887875633F2}|Somar_c_Saturtion.vcxproj|C:\\Users\\BitFenix\\Desktop\\github\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\Somar_c_Saturtion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DCC55BA1-E477-48F8-9573-F887875633F2}|Somar_c_Saturtion.vcxproj|solutionrelative:Somar_c_Saturtion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,14 +33,18 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Somar_c_Saturtion.cpp",
-              "DocumentMoniker": "C:\\Users\\1708170\\Desktop\\GitHub\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\Somar_c_Saturtion.cpp",
+              "DocumentMoniker": "C:\\Users\\BitFenix\\Desktop\\github\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\Somar_c_Saturtion.cpp",
               "RelativeDocumentMoniker": "Somar_c_Saturtion.cpp",
-              "ToolTip": "C:\\Users\\1708170\\Desktop\\GitHub\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\Somar_c_Saturtion.cpp",
+              "ToolTip": "C:\\Users\\BitFenix\\Desktop\\github\\Arquitetura_Computadores\\Aquitetura_Computadores\\Assembly\\Somar_c_Saturtion\\Somar_c_Saturtion.cpp",
               "RelativeToolTip": "Somar_c_Saturtion.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-21T09:02:12.294Z",
               "EditorCaption": ""

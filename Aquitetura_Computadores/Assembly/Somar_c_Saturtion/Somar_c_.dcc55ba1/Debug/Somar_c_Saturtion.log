@@ -1,2 +1,5 @@
 ﻿  Somar_c_Saturtion.cpp
-  Somar_c_Saturtion.vcxproj -> C:\Users\1708170\Desktop\GitHub\Arquitetura_Computadores\Aquitetura_Computadores\Assembly\Somar_c_Saturtion\Debug\Somar_c_Saturtion.exe
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\Aquitetura_Computadores\Assembly\Somar_c_Saturtion\Somar_c_Saturtion.cpp(32,93): warning C4838: a conversão de 'int' em 'unsigned char' requer uma conversão de restrição
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\Aquitetura_Computadores\Assembly\Somar_c_Saturtion\Somar_c_Saturtion.cpp(32,93): warning C4305: 'inicializando': truncamento de 'int' para 'unsigned char'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\Aquitetura_Computadores\Assembly\Somar_c_Saturtion\Somar_c_Saturtion.cpp(32,93): warning C4309: 'inicializando': truncamento de valor constante
+  Somar_c_Saturtion.vcxproj -> C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\Aquitetura_Computadores\Assembly\Somar_c_Saturtion\Debug\Somar_c_Saturtion.exe
