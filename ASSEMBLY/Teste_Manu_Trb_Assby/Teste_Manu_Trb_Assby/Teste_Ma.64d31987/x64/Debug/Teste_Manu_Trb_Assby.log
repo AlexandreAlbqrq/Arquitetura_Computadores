@@ -1,0 +1,32 @@
+﻿  Teste_Manu_Trb_Assby.cpp
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(17,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(18,9): error C2065: 'mov': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(18,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ecx'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(18,13): error C2065: 'ecx': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(19,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(19,9): error C2065: 'mov': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(19,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'esi'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(19,13): error C2065: 'esi': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(20,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(20,9): error C2065: 'mov': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(20,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'edi'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(20,13): error C2065: 'edi': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(21,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(21,9): error C2065: 'mov': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(21,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'edx'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(21,13): error C2065: 'edx': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(23,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'loop_start'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(24,9): error C2065: 'cmp': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(24,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ecx'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(24,13): error C2065: 'ecx': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(25,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'jge'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(25,13): error C2065: 'jge': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(25,17): error C2146: erro de sintaxe: ';' ausente antes do identificador 'loop_end'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(25,17): error C2065: 'loop_end': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,13): error C2065: 'mov': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,17): error C2146: erro de sintaxe: ';' ausente antes do identificador 'al'
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,17): error C2065: 'al': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,26): error C2760: erro de sintaxe: '+' não era esperado aqui; o esperado era ','
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,28): error C2065: 'ecx': identificador não declarado
+C:\Users\BitFenix\Desktop\github\Arquitetura_Computadores\ASSEMBLY\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby\Teste_Manu_Trb_Assby.cpp(27,31): error C2059: erro de sintaxe: ']'
